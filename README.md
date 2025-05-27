@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arnav Parekar</h1>
 <h3 align="center">A tech enthusiast and CS undergrad at VIT Chennai.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavparekar&label=Profile%20views&color=0e75b6&style=flat" alt="aytaditya" /> </p>
+## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arnavparekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="watching_count" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
-</div>
+I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cloud computing, cybersecurity and advanced algorithms while continuously working on full-stack projects. I’m also exploring machine learning through research on one-pixel adversarial attacks using TLMFO algorithm. 
 
+I have a strong interest in clean UI design and scripting to automate everyday tasks. I’m always open to learning, collaborating on exciting open-source projects, and pushing the boundaries of what technology can do. Let’s connect and build something amazing together!
+
+###
 ###
 
 <div align="left">
@@ -63,8 +63,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavparekar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
-   <img src="https://api.githubtrends.io/user/svg/arnavparekar/repos?time_range=three_months&include_private=True&group=private&theme=synthwaves" alt="stats"/>
+  <img src="https://raw.githubusercontent.com/arnavparekar/arnavparekar/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arnavparekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ## 🤝 Connect with Me:
@@ -72,6 +77,9 @@
   <a href="https://www.linkedin.com/in/arnav-parekar-b55786287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
+  <a target="_blank" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=parekar.arnav@gmail.com&tf=1"> 
+  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
 </p>
 
 <!-- Contribution Snake -->
