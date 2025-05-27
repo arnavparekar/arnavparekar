@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Every Sunday
+    - cron: "0 0 * * 0"
   push:
     branches: ["main"]
 
@@ -15,3 +15,4 @@ jobs:
         with:
           USERNAME: arnavparekar
           UTC_OFFSET: 5.5
+          TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }} 
