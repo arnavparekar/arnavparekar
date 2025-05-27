@@ -11,6 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PROFILE_CARDS_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -19,4 +26,4 @@ jobs:
           UTC_OFFSET: 5.5
           AUTO_PUSH: true
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
