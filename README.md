@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Parekar</h1>
-<img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="Profile Views" />
 <h3 align="center">A tech enthusiast and CS undergrad at VIT Chennai.</h3>
 
-## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
+## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me <img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="Profile Views" />
 
 
 I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cloud computing, cybersecurity and advanced algorithms while continuously working on full-stack projects. I’m also exploring machine learning through research on one-pixel adversarial attacks using TLMFO algorithm. 
