@@ -12,7 +12,7 @@ I have a strong interest in clean UI design and scripting to automate everyday t
 ###
 
 <div align="left">
-  <h2><strong>💻 TECH STACK</strong></h2>
+  <h2><strong>💻 Tech Stack</strong></h2>
   <table>
     <tr>
       <td>Programming Languages</td>
