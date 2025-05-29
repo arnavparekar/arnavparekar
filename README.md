@@ -72,15 +72,14 @@ I have a strong interest in clean UI design and scripting to automate everyday t
 
 
 ## 🤝 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnav-parekar-b55786287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="mailto:parekar.arnav@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/red" alt="Gmail" width="60" height="60">
   </a>
-  <a target="_blank" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=parekar.arnav@gmail.com&tf=1"> 
-  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
-</a>
+  <a href="https://www.linkedin.com/in/arnav-parekar-b55786287/">
+    <img src="https://cdn.pixabay.com/photo/2017/08/23/22/59/linked-in-2674741_1280.png" alt="LinkedIn" width="60" height="60">
+  </a>
 </p>
-
 <!-- Contribution Snake -->
 <div align="center">
   <picture>
