@@ -3,14 +3,12 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me <img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="Profile Views" />
 
-
 I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cloud computing, cybersecurity and advanced algorithms while continuously working on full-stack projects. I’m also exploring machine learning through research on one-pixel adversarial attacks using TLMFO algorithm. 
 
 I have a strong interest in clean UI design and scripting to automate everyday tasks. I’m always open to learning, collaborating on exciting open-source projects, and pushing the boundaries of what technology can do. Let’s connect and build something amazing together!
 
 ###
 ###
-
 <div align="left">
   <h2><strong>💻 Tech Stack</strong></h2>
   <table>
@@ -54,12 +52,7 @@ I have a strong interest in clean UI design and scripting to automate everyday t
     </tr>
   </table>
 </div>
-
-
-
 ## 📊 GitHub Stats:
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavparekar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/arnavparekar/arnavparekar/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Github Stats"/>
@@ -68,8 +61,6 @@ I have a strong interest in clean UI design and scripting to automate everyday t
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arnavparekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ## 🤝 Connect with Me:
 <p align="center">
@@ -80,7 +71,7 @@ I have a strong interest in clean UI design and scripting to automate everyday t
     <img src="https://cdn.pixabay.com/photo/2017/08/23/22/59/linked-in-2674741_1280.png" alt="LinkedIn" width="60" height="60">
   </a>
 </p>
-<!-- Contribution Snake -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -89,6 +80,4 @@ I have a strong interest in clean UI design and scripting to automate everyday t
   </picture>
 </div>
 
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/>
