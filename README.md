@@ -3,7 +3,7 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me <img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="Profile Views" />
 
-I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cloud computing, cybersecurity and advanced algorithms while continuously working on full-stack projects. I’m also exploring machine learning through research on one-pixel adversarial attacks using TLMFO algorithm. 
+I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cybersecurity and advanced algorithms while continuously working on full-stack projects. 
 
 I have a strong interest in clean UI design and scripting to automate everyday tasks. I’m always open to learning, collaborating on exciting open-source projects, and pushing the boundaries of what technology can do. Let’s connect and build something amazing together!
 
