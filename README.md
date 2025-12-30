@@ -52,15 +52,20 @@ I have a strong interest in clean UI design and scripting to automate everyday t
     </tr>
   </table>
 </div>
+
+<!--
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavparekar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/arnavparekar/arnavparekar/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arnavparekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
+
+
 
 ## 🤝 Connect with Me:
 <p align="center">
