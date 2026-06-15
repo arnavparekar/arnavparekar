@@ -1,81 +1,107 @@
-<h1 align="center">Hi 👋, I'm Arnav Parekar</h1>
-<h3 align="center">A tech enthusiast and CS undergrad at VIT Chennai.</h3>
-
-## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me <img align="right" src="https://komarev.com/ghpvc/?username=arnavparekar&style=flat-square&color=0e75b6&label=views" height="25px" alt="Profile Views" />
-
-I'm Arnav Parekar, a developer who enjoys building efficient, impactful, and user-friendly tech solutions. I'm currently diving deep into cybersecurity and advanced algorithms while continuously working on full-stack projects. 
-
-I have a strong interest in clean UI design and scripting to automate everyday tasks. I’m always open to learning, collaborating on exciting open-source projects, and pushing the boundaries of what technology can do. Let’s connect and build something amazing together!
-
-###
-###
-<div align="left">
-  <h2><strong>💻 Tech Stack</strong></h2>
-  <table>
-    <tr>
-      <td>Programming Languages</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Dart-%23007ACC.svg?style=flat-square&logo=dart&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" style="height:30px"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks & Libraries</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Vue.js-3670A0?style=flat-square&logo=vue.js&logoColor=ffdd54" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Node.js-%23E34F26.svg?style=flat-square&logo=Node.JS&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Tensorflow-38B2AC.svg?style=flat-square&logo=tensorflow&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" style="height:30px"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Developer Tools</td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-%2300599C.svg?style=flat-square&logo=git&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/GitHub-%2300599C.svg?style=flat-square&logo=github&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Android Studio-38B2AC?style=flat-square&logo=androidstudio&logoColor=ffdd54" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=flat-square&logo=render&logoColor=000000" style="height:30px"/>
-        <img src="https://img.shields.io/badge/HTML-%23323330.svg?style=flat-square&logo=html5&logoColor=%23F7DF1E" style="height:30px"/>
-        <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat-square&logo=css3&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" style="height:30px"/>
-        <img src="https://img.shields.io/badge/Supabase-%23E34F26.svg?style=flat-square&logo=supabase&logoColor=white" style="height:30px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!--
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavparekar&theme=radical&hide_border=false&include_all_commits=false&count_private=true" height="200" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/arnavparekar/arnavparekar/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Github Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavparekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="250" alt="languages graph" />
+  <h3> I'm Arnav Parekar </h3>
+  <h3> OT Security Enthusiast | Aspiring Software Engineer | Builder </h3>
+  <p>Exploring the intersection of Industrial Control Systems (ICS) and Modern Software Engineering.</p>
+  
+  [![Terminal Portfolio](https://img.shields.io/badge/_Terminal_Portfolio-0a0e27?style=for-the-badge&logoColor=white&textColor=00ff41)](https://arnavparekar.in/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-parekar-b55786287/)
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arnavparekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
+---
 
+###  About Me
 
+-  **Education:** Pursuing B.Tech in Computer Science at **VIT Chennai** (2023 - 2027)
+-  **Focus:** Passionate about **OT/ICS Cybersecurity** (Modbus, DNP3, IEC 62443, Purdue Model) and building resilient threat detection systems.
+-  **Current Projects:** Building **ICS-Watchdog** (passive OT network monitor) and **ICS-ZoneAudit** (IEC 62443 compliance CLI).
+-  **Achievements:** National Winner at Bloom Energy Hackfest, Global Finalist at IEEE YESIST & IBM TechXchange. Published a patent in traffic systems and a paper in storage scheduling.
+-  **Goal:** Bridging the gap between legacy industrial infrastructure and modern, AI-driven security engineering.
 
-## 🤝 Connect with Me:
-<p align="center">
-  <a href="mailto:parekar.arnav@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/red" alt="Gmail" width="60" height="60">
-  </a>
-  <a href="https://www.linkedin.com/in/arnav-parekar-b55786287/">
-    <img src="https://cdn.pixabay.com/photo/2017/08/23/22/59/linked-in-2674741_1280.png" alt="LinkedIn" width="60" height="60">
-  </a>
+---
+
+###  Tech Stack & Skills
+
+<details open>
+<summary><b> Industrial & IT Security</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus%2FTCP-0f2027?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNP3-0f2027?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEC_62443-4B5563?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST_SP_800--82-4B5563?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-E53935?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Purdue_Model-1B263B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVAS-404040?style=for-the-badge&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b> Programming Languages</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b> Frontend & Mobile Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+</p>
+</details>
+
+<details open>
+<summary><b> Backend & DevOps</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b> Data & AI</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+</details>
+
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavparekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arnavparekar&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+</div>
+
+<br>
+<div align="center">
+  <i>"Security is not a product, but a process."</i><br>
+  <b>Drop by my <a href="https://your-portfolio-link.vercel.app">interactive terminal portfolio</a> and type <code>help</code> to explore!</b>
+</div>
+
 
 <div align="center">
   <picture>
@@ -86,3 +112,4 @@ I have a strong interest in clean UI design and scripting to automate everyday t
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/>
+
