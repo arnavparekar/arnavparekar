@@ -1,7 +1,7 @@
 <div align="center">
   <h3> I'm Arnav Parekar </h3>
-  <h3> OT Security Enthusiast | Aspiring Software Engineer | Builder </h3>
-  <p>Exploring the intersection of Industrial Control Systems (ICS) and Modern Software Engineering.</p>
+  <h3> OT Security Enthusiast | Aspiring Software Engineer </h3>
+  <p>Exploring the intersection of Industrial Control Systems (ICS) and Software Engineering.</p>
   
   [![Terminal Portfolio](https://img.shields.io/badge/_Terminal_Portfolio-0a0e27?style=for-the-badge&logoColor=white&textColor=00ff41)](https://arnavparekar.in/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-parekar-b55786287/)
@@ -13,8 +13,6 @@
 
 -  **Education:** Pursuing B.Tech in Computer Science at **VIT Chennai** (2023 - 2027)
 -  **Focus:** Passionate about **OT/ICS Cybersecurity** (Modbus, DNP3, IEC 62443, Purdue Model) and building resilient threat detection systems.
--  **Current Projects:** Building **ICS-Watchdog** (passive OT network monitor) and **ICS-ZoneAudit** (IEC 62443 compliance CLI).
--  **Achievements:** National Winner at Bloom Energy Hackfest, Global Finalist at IEEE YESIST & IBM TechXchange. Published a patent in traffic systems and a paper in storage scheduling.
 -  **Goal:** Bridging the gap between legacy industrial infrastructure and modern, AI-driven security engineering.
 
 ---
@@ -103,13 +101,13 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=120&section=footer"/> -->
 
