@@ -13,13 +13,13 @@
 
 -  **Education:** Pursuing B.Tech in Computer Science at **VIT Chennai** (2023 - 2027)
 -  **Focus:** Passionate about **OT/ICS Cybersecurity** (Modbus, DNP3, IEC 62443, Purdue Model) and building resilient threat detection systems.
--  **Goal:** Bridging the gap between legacy industrial infrastructure and modern, AI-driven security engineering.
+-  **Goal:** Bridging the gap between legacy industrial infrastructure and modern, AI driven security engineering.
 
 ---
 
 ###  Tech Stack & Skills
 
-<details open>
+<!-- <details open>
 <summary><b> Industrial & IT Security</b></summary>
 <br>
 <p align="left">
@@ -76,6 +76,102 @@
 
 <details open>
 <summary><b> Data & AI</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+</details> -->
+
+<details open>
+
+<summary><b>Industrial & IT Security</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus%2FTCP-0f2027?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNP3-0f2027?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEC_62443-4B5563?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST_SP_800--82-4B5563?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E53935?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Purdue_Model-1B263B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVAS-404040?style=for-the-badge&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Observability</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Cloud & Deployment</b></summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Data & AI</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
